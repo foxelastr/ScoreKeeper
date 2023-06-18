@@ -1,1 +1,2 @@
-"# foxelastr.github.io" 
+# ScoreKeeper
+Badminton and Pingpong Score Keeper
